@@ -1,6 +1,8 @@
-## Hi there, I'm Beam 👋
+## Hello there, I'm Beam 👋
 
-
+<p align="center">
+  <img width="150" height="150" src="https://github.com/l3eamster/l3eamster/blob/main/octocat.gif">
+</p>
 
 <!--
 **l3eamster/l3eamster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
