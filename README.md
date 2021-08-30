@@ -2,8 +2,8 @@
 
 <p align="center">
   <img width="150" height="150" src="https://github.com/l3eamster/l3eamster/blob/main/octocat.gif">
-  <p align="center" > I'm currently studying Computer Engineering at KMITL :school:. Interested in Software development and Software testing :computer:. </p>
-  <p align="center" > I'm on track for learning more :fire: about Fullstack developer, Manual Testing, Automation Testing :books: and improve my soft skills :smile:. 
+  <p align="center" > I'm currently studying Computer Engineering at KMITL :school:. Interested in Software Development and Software Testing :computer:. </p>
+  <p align="center" > I'm on track for learning more :fire: about Full Stack Developer, Manual Testing, Automation Testing :books: and improve my soft skills :smile:. 
 </p>
 
 ---
