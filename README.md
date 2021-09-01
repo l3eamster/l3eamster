@@ -6,7 +6,7 @@
   <p align="center" > I'm on track for learning more :fire: about Full Stack Developer, Manual Testing, Automation Testing :books: and improve my soft skills :smile:. 
 </p>
 
----
+___
 
 <p align="center">
 <img width="160" height="25" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
